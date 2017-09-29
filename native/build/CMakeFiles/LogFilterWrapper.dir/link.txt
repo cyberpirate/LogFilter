@@ -1,1 +1,0 @@
-/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLogFilterWrapper.so -o libLogFilterWrapper.so CMakeFiles/LogFilterWrapper.dir/src/py_wrapper/main.c.o -lpython3.5m 

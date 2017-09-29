@@ -1,5 +1,0 @@
-/mnt/c/Users/joevi/git/LogFilter/native/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/joevi/git/LogFilter/native/build/CMakeFiles/LogFilterWrapper.dir
-/mnt/c/Users/joevi/git/LogFilter/native/build/CMakeFiles/LogFilter.dir
-/mnt/c/Users/joevi/git/LogFilter/native/build/CMakeFiles/LogTester.dir
-/mnt/c/Users/joevi/git/LogFilter/native/build/CMakeFiles/rebuild_cache.dir

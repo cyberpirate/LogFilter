@@ -1,1 +1,0 @@
-/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLogFilterNative.so -o libLogFilterNative.so CMakeFiles/LogFilterNative.dir/src/main.c.o -lpython3.5m 
