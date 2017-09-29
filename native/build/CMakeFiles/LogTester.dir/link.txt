@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -DNDEBUG   CMakeFiles/LogTester.dir/src/test_src/main.c.o  -o LogTester -rdynamic 

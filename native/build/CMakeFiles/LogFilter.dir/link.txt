@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLogFilter.so -o libLogFilter.so CMakeFiles/LogFilter.dir/src/filter_src/main.c.o 
